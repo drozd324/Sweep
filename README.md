@@ -1,9 +1,11 @@
-# Check out the rest of this readme below the images which show my modifications
+Below the first two pictures show my modifications to sweep v2.2 .
+Below that again is the original readme.
 
 
 <img src="./board_red.png">
 <img src="./board_render.png">
     
+
 
 # Sweep
 <!--
