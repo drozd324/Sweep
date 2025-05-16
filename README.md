@@ -1,8 +1,8 @@
 # Check out the rest of this readme below the images which show my modifications
 
 
-<img src="./board_red">
-<img src="./board_rendered">
+<img src="./board_red.png">
+<img src="./board_rendered.png">
     
 
 # Sweep
