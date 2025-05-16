@@ -250,7 +250,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "half-swept.kicad_pro",
+    "filename": "my_half-swept.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -279,7 +279,12 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Default",
+        "pattern": "gnd"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
