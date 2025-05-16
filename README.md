@@ -2,7 +2,7 @@
 
 
 <img src="./board_red.png">
-<img src="./board_rendered.png">
+<img src="./board_render.png">
     
 
 # Sweep
