@@ -481,7 +481,7 @@
       "plot": "sweep2gerber",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "my_sweepv2.stl",
       "svg": "",
       "vrml": ""
     },

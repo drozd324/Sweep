@@ -1,13 +1,12 @@
-Info: Output directory 'C:\Users\drozd\Documents\work\feris_sweep_keyboard\Sweep\Sweep v2.2\sweep2gerber' created.
-Plotted to 'C:\Users\drozd\Documents\work\feris_sweep_keyboard\Sweep\Sweep v2.2\sweep2gerber\my_sweepv2-F_Cu.gbr'.
-Plotted to 'C:\Users\drozd\Documents\work\feris_sweep_keyboard\Sweep\Sweep v2.2\sweep2gerber\my_sweepv2-B_Cu.gbr'.
-Plotted to 'C:\Users\drozd\Documents\work\feris_sweep_keyboard\Sweep\Sweep v2.2\sweep2gerber\my_sweepv2-F_Paste.gbr'.
-Plotted to 'C:\Users\drozd\Documents\work\feris_sweep_keyboard\Sweep\Sweep v2.2\sweep2gerber\my_sweepv2-B_Paste.gbr'.
-Plotted to 'C:\Users\drozd\Documents\work\feris_sweep_keyboard\Sweep\Sweep v2.2\sweep2gerber\my_sweepv2-F_Silkscreen.gbr'.
-Plotted to 'C:\Users\drozd\Documents\work\feris_sweep_keyboard\Sweep\Sweep v2.2\sweep2gerber\my_sweepv2-B_Silkscreen.gbr'.
-Plotted to 'C:\Users\drozd\Documents\work\feris_sweep_keyboard\Sweep\Sweep v2.2\sweep2gerber\my_sweepv2-F_Mask.gbr'.
-Plotted to 'C:\Users\drozd\Documents\work\feris_sweep_keyboard\Sweep\Sweep v2.2\sweep2gerber\my_sweepv2-B_Mask.gbr'.
-Plotted to 'C:\Users\drozd\Documents\work\feris_sweep_keyboard\Sweep\Sweep v2.2\sweep2gerber\my_sweepv2-Edge_Cuts.gbr'.
-Created Gerber job file 'C:\Users\drozd\Documents\work\feris_sweep_keyboard\Sweep\Sweep v2.2\sweep2gerber\my_sweepv2-job.gbrjob'.
+Plotted to 'C:\Users\drozd\Documents\work\ergo_keyboards\my_sweep\Sweep\sweep_v2.2\sweep2gerber\my_sweepv2-F_Cu.gbr'.
+Plotted to 'C:\Users\drozd\Documents\work\ergo_keyboards\my_sweep\Sweep\sweep_v2.2\sweep2gerber\my_sweepv2-B_Cu.gbr'.
+Plotted to 'C:\Users\drozd\Documents\work\ergo_keyboards\my_sweep\Sweep\sweep_v2.2\sweep2gerber\my_sweepv2-F_Paste.gbr'.
+Plotted to 'C:\Users\drozd\Documents\work\ergo_keyboards\my_sweep\Sweep\sweep_v2.2\sweep2gerber\my_sweepv2-B_Paste.gbr'.
+Plotted to 'C:\Users\drozd\Documents\work\ergo_keyboards\my_sweep\Sweep\sweep_v2.2\sweep2gerber\my_sweepv2-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\drozd\Documents\work\ergo_keyboards\my_sweep\Sweep\sweep_v2.2\sweep2gerber\my_sweepv2-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\drozd\Documents\work\ergo_keyboards\my_sweep\Sweep\sweep_v2.2\sweep2gerber\my_sweepv2-F_Mask.gbr'.
+Plotted to 'C:\Users\drozd\Documents\work\ergo_keyboards\my_sweep\Sweep\sweep_v2.2\sweep2gerber\my_sweepv2-B_Mask.gbr'.
+Plotted to 'C:\Users\drozd\Documents\work\ergo_keyboards\my_sweep\Sweep\sweep_v2.2\sweep2gerber\my_sweepv2-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\drozd\Documents\work\ergo_keyboards\my_sweep\Sweep\sweep_v2.2\sweep2gerber\my_sweepv2-job.gbrjob'.
 Info: Done.
 Info: Done.
